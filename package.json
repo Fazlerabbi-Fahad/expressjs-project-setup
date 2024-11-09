@@ -4,6 +4,7 @@
   "description": "",
   "main": "src/server.ts",
   "scripts": {
+    "start": "ts-node-dev --respawn --transpile-only src/server.ts",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,7 +20,14 @@
     "url": "https://github.com/Fazlerabbi-Fahad/expressjs-project-setup/issues"
   },
   "homepage": "https://github.com/Fazlerabbi-Fahad/expressjs-project-setup#readme",
-  "dependencies": {
+  "devDependencies": {
+    "@types/express": "^5.0.0",
     "typescript": "^5.6.3"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.1",
+    "ts-node-dev": "^2.0.0"
   }
 }
