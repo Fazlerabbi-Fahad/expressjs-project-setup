@@ -1,0 +1,25 @@
+{
+  "name": "expressjs-project-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/server.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fazlerabbi-Fahad/expressjs-project-setup.git"
+  },
+  "keywords": [
+    "Expressjs"
+  ],
+  "author": "Fahad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fazlerabbi-Fahad/expressjs-project-setup/issues"
+  },
+  "homepage": "https://github.com/Fazlerabbi-Fahad/expressjs-project-setup#readme",
+  "dependencies": {
+    "typescript": "^5.6.3"
+  }
+}
