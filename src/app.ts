@@ -1,6 +1,8 @@
-import express, { Application, Request, Response } from 'express'
+/* eslint-disable @typescript-eslint/no-unused-vars */
+import express, { Application, NextFunction, Request, Response } from 'express'
 import cors from 'cors'
-import router from './app/modules/user/user.route'
+import globalErrorHandler from './app/middlewares/globalErrorHandler'
+import { UserRouter } from './app/modules/user/user.route'
 const app: Application = express()
 
 //#region parser
@@ -10,13 +12,17 @@ app.use(express.urlencoded({ extended: true }))
 //#endregion
 
 //#region Application routes
-app.use('/api/v1', router)
+app.use('/api/v1', UserRouter)
 //#endregion
 
 //#region Testing
-app.get('/', (req: Request, res: Response) => {
-  res.send('Hello World!')
+app.get('/', async (req: Request, res: Response, next: NextFunction) => {
+  throw new Error('uUnhandled Promise Rejection')
 })
+//#endregion
+
+//#region global eror handler
+app.use(globalErrorHandler)
 //#endregion
 
 export default app

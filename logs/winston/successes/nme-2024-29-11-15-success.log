@@ -1,0 +1,72 @@
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:01:44.055Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:01:44.074Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:12:10.339Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:12:10.346Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:18:19.363Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:18:19.372Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:21:25.620Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:21:25.629Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:22:44.230Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:22:44.237Z'
+}
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:22:57.238Z'
+}
+{
+  message: 'Application listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T09:22:57.247Z'
+}

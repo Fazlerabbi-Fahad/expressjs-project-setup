@@ -1,0 +1,30 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/.58f00cac975671f32fe4d46871e6198fea15b3ef-audit.json",
+    "files": [
+        {
+            "date": 1732859147734,
+            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-11-error.log",
+            "hash": "f9953ccba5f506844a9a99c0704b57ea157ed6e580be133eb83112ffd46cc259"
+        },
+        {
+            "date": 1732869048359,
+            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-14-error.log",
+            "hash": "10fa5bc3cbb9da5f2b160641cd59ad8b7eaafba9abda5cc04a40bc9856c8ed58"
+        },
+        {
+            "date": 1732870904024,
+            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-15-error.log",
+            "hash": "112d46944b7a045daa1154d88f16365fdb605b2c96219976caa5fabbc0ba5054"
+        },
+        {
+            "date": 1732877966257,
+            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-16-error.log",
+            "hash": "f43a1b1109ad8616445159e3636b95181b2203bad2d7ca0dff3caae96ace76ee"
+        }
+    ],
+    "hashType": "sha256"
+}
