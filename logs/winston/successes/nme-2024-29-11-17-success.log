@@ -10,3 +10,15 @@
   label: 'NME!',
   timestamp: '2024-11-29T11:02:31.725Z'
 }
+{
+  message: 'Database is connected successfully',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T11:34:05.525Z'
+}
+{
+  message: 'Example app listening on port 5001',
+  level: 'info',
+  label: 'NME!',
+  timestamp: '2024-11-29T11:34:05.543Z'
+}

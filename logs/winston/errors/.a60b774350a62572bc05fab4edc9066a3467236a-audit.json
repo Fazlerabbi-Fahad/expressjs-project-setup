@@ -1,15 +1,15 @@
 {
-    "keep": {
-        "days": true,
-        "amount": 14
-    },
-    "auditLog": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/.a60b774350a62572bc05fab4edc9066a3467236a-audit.json",
-    "files": [
-        {
-            "date": 1732878075827,
-            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-17-success.log",
-            "hash": "8f0dc8159ba302c0c3d95433376f19f0be8538ccfcf4bd5da14570b48914cec0"
-        }
-    ],
-    "hashType": "sha256"
+  "keep": {
+    "days": true,
+    "amount": 14
+  },
+  "auditLog": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/.a60b774350a62572bc05fab4edc9066a3467236a-audit.json",
+  "files": [
+    {
+      "date": 1732878075827,
+      "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-17-success.log",
+      "hash": "8f0dc8159ba302c0c3d95433376f19f0be8538ccfcf4bd5da14570b48914cec0"
+    }
+  ],
+  "hashType": "sha256"
 }

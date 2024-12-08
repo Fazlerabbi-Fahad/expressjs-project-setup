@@ -24,6 +24,11 @@
             "date": 1732877966257,
             "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-16-error.log",
             "hash": "f43a1b1109ad8616445159e3636b95181b2203bad2d7ca0dff3caae96ace76ee"
+        },
+        {
+            "date": 1732880043191,
+            "name": "/home/fahad/Desktop/Projects/expressjs-project-setup/logs/winston/errors/nme-2024-29-11-17-error.log",
+            "hash": "9cc680e02b9f50af812b24f0f9cd6a78dc01df82b024a496627e80eccc740054"
         }
     ],
     "hashType": "sha256"
